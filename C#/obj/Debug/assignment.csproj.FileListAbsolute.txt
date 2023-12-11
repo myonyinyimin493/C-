@@ -1,0 +1,14 @@
+c:/users/monkey/documents/visual studio 2013/Projects/assignment/assignment/bin/Debug/assignment.exe.config
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/bin/Debug/assignment.exe
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/bin/Debug/assignment.pdb
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.csprojResolveAssemblyReference.cache
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.Form1.resources
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.Properties.Resources.resources
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.registration.resources
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.csproj.GenerateResource.Cache
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.exe
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.pdb
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.Admin.resources
+C:/Users/Monkey/Documents/Visual Studio 2013/Projects/assignment/assignment/obj/Debug/assignment.casher.resources
+/Volumes/Backup Plus/C#/Projects/assignment/assignment/obj/Debug/assignment.exe
+/Volumes/Backup Plus/C#/Projects/assignment/assignment/obj/Debug/assignment.pdb
